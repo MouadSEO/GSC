@@ -1,2 +1,2 @@
 # GSC
-All stiff related to Google Search Console
+All stuff related to Google Search Console will be shared in this repo
