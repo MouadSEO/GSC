@@ -2,7 +2,7 @@
 All stuff related to Google Search Console will be shared in this repo
 
 
-This projet will help you to automate #the properties# you want to add to your #Google Search Console# you can add multiple URL at once to your Google Search Console account.  
+This projet will help you to automate **the properties** you want to add to your **Google Search Console** you can add multiple URL at once to your Google Search Console account.  
 
 
 # Requirements:  
