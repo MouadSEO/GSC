@@ -11,7 +11,7 @@ This script uses Python language (Python 3 or >3) with: ```pandas, httplib2,requ
 
 Make sure to install the required libraries above by using pip install.  
 
-For instance for the library pandas: pip3 install pandas
+For instance for the library pandas: ```pip3 install pandas```
 
 Make sure also to have your ID clients OAuth 2.0 credentials via https://console.developers.google.com/apis/credentials , create your own if it's not the case.
 
