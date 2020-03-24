@@ -13,6 +13,8 @@ clientId = 'ID_client'
 clientSecret = 'Code_Secret_Du_Client'
 listLocation = 'FICHIER.xls'
 
+#Attention le fichier xls doit disposer d'une seule colonne avec toutes les URL à ajouter et avoir en première ligne Complete URL en entête
+
 
 df = pd.read_excel(listLocation, sheet_name='sheeet') # Nom de la feuille xls
 website_list = df['Complete URL'].tolist() # on recup la colonne
