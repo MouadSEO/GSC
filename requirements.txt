@@ -1,0 +1,7 @@
+Rentrez ces lignes de commande une par une dans votre terminal Windows, Linux ou Mac:
+
+
+pip3 install httplib2
+pip3 install requests
+pip3 install pandas
+pip3 install google_api_python_client
